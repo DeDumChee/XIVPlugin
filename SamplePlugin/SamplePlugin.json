@@ -1,12 +1,13 @@
 {
-  "Author": "your name here",
-  "Name": "Sample Plugin",
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "Author": "DeDumChee",
+  "Name": "PF Notifier",
+  "Punchline": "Be notified when a PF is created!",
+  "Description": "I will write this later probably!",
   "ApplicableVersion": "any",
   "Tags": [
-    "sample",
-    "plugin",
-    "goats"
+    "PF",
+    "party finder",
+    "notifier",
+    "notification"
   ]
 }
